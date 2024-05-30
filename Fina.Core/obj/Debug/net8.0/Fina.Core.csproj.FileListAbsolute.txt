@@ -1,0 +1,11 @@
+C:\Users\Henrique A Pereira\Documents\Programação\Balta\Jornada Fullstack 2024\fina\Fina.Core\bin\Debug\net8.0\Fina.Core.deps.json
+C:\Users\Henrique A Pereira\Documents\Programação\Balta\Jornada Fullstack 2024\fina\Fina.Core\bin\Debug\net8.0\Fina.Core.dll
+C:\Users\Henrique A Pereira\Documents\Programação\Balta\Jornada Fullstack 2024\fina\Fina.Core\bin\Debug\net8.0\Fina.Core.pdb
+C:\Users\Henrique A Pereira\Documents\Programação\Balta\Jornada Fullstack 2024\fina\Fina.Core\obj\Debug\net8.0\Fina.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique A Pereira\Documents\Programação\Balta\Jornada Fullstack 2024\fina\Fina.Core\obj\Debug\net8.0\Fina.Core.AssemblyInfoInputs.cache
+C:\Users\Henrique A Pereira\Documents\Programação\Balta\Jornada Fullstack 2024\fina\Fina.Core\obj\Debug\net8.0\Fina.Core.AssemblyInfo.cs
+C:\Users\Henrique A Pereira\Documents\Programação\Balta\Jornada Fullstack 2024\fina\Fina.Core\obj\Debug\net8.0\Fina.Core.csproj.CoreCompileInputs.cache
+C:\Users\Henrique A Pereira\Documents\Programação\Balta\Jornada Fullstack 2024\fina\Fina.Core\obj\Debug\net8.0\Fina.Core.dll
+C:\Users\Henrique A Pereira\Documents\Programação\Balta\Jornada Fullstack 2024\fina\Fina.Core\obj\Debug\net8.0\refint\Fina.Core.dll
+C:\Users\Henrique A Pereira\Documents\Programação\Balta\Jornada Fullstack 2024\fina\Fina.Core\obj\Debug\net8.0\Fina.Core.pdb
+C:\Users\Henrique A Pereira\Documents\Programação\Balta\Jornada Fullstack 2024\fina\Fina.Core\obj\Debug\net8.0\ref\Fina.Core.dll
